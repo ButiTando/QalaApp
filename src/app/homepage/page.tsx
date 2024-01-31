@@ -64,6 +64,8 @@ export default function homePage(){
                             flex flex-col">
                 <NavBar />
 
+                
+
                 {/* This is the user data container */}
                 <div className="
                                 h-[11.75em]
